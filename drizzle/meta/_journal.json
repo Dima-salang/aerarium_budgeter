@@ -8,6 +8,13 @@
       "when": 1747245686383,
       "tag": "0000_tense_mongoose",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1747247784989,
+      "tag": "0001_good_thanos",
+      "breakpoints": true
     }
   ]
 }
