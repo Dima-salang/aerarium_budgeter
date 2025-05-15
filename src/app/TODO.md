@@ -1,7 +1,11 @@
 # TODO
-- [deploy vercel]
-- [setup drizzle]
-- [setup auth]
-- [define transactions]
-- [define categories]
+- [deploy vercel] -- DONE
+- [setup drizzle] -- DONE
+- [setup auth]  -- DONE
+- [define transactions type] -- DONE
+- [define categories type] -- DONE
 - [define budgets]
+- [define transactions page]
+- [define categories page]
+- [define budgets page]
+- [define auth page]
